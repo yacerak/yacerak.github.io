@@ -44,10 +44,6 @@ When I’m not in the classroom or the lab, I am usually deep-diving into **AI-d
 
 ## 🚀 Featured Projects
 
-### **AI-Driven Intrusion Detection Systems in SDN** * **Tech Stack:** Python, SDN Controller, Scikit-Learn, Deep Learning.
-* **Description:** Developed an advanced security framework that utilizes machine learning to detect and mitigate network intrusions in real-time within a Software-Defined Networking environment.
-* **Impact:** Successfully demonstrated how AI can enhance network resilience against modern, automated cyber threats.
-
 ### AI-Powered Intrusion Detection System for SDN (LSTM-Based)
 
 - **Tech Stack:** Python, TensorFlow/Keras, Ryu SDN Controller, OpenFlow, Scikit-learn, Linux
