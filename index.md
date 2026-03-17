@@ -1,132 +1,75 @@
----
-
-layout: "default"
-title: "Yacer Akram Meftah"
-description: "Network & Telecommunications Engineer - AI/ML & IoT"
-permalink: "/"
---------------
-
 # Yacer Akram Meftah
 
-**Network & Telecommunications Engineer • AI / ML & IoT enthusiast** 🚀
+### **Network & Telecommunications Engineer | AI Specialist | Educator**
+> "Architecting resilient networks and intelligent systems for the future of connectivity."
 
-*Hello — I build reliable networks, teach AI & IoT labs, and turn data into actionable models.*
-
----
-
-## Contact
-
-* **Location:** Boudouaou, Boumerdes, Algeria
-* **Phone:** +213 672 910 974
-* **Email:** [yacermeftah@gmail.com](mailto:yacermeftah@gmail.com)
-* **LinkedIn:** [linkedin.com/in/yacer-meftah-770238296](https://www.linkedin.com/in/yacer-meftah-770238296)
-* **GitHub:** [github.com/yacerak](https://github.com/yacerak)
+👋 **Hello! I’m Yacer.** I am a technical professional dedicated to building secure, intelligent, and highly efficient digital environments. Whether I'm configuring complex network topologies or training deep learning models, I thrive at the intersection of infrastructure and intelligence.
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I’m a Network & Telecommunications engineer who enjoys bridging infrastructure and intelligence. My work sits at the intersection of network systems, cybersecurity, and data-driven AI — whether I’m configuring a resilient server stack or training a model to detect anomalous traffic, I aim for solutions that are robust, explainable, and production-ready.
+My professional journey is driven by a deep curiosity about how information moves and how we can make it smarter. With a strong foundation as a **Network and Telecommunications Engineer**, I view data as the lifeblood of modern innovation, requiring both robust pathways and sophisticated analysis. I enjoy the challenge of architecting systems that are not only functional but resilient and forward-thinking.
 
-Teaching and mentoring are central to how I operate: I design lab exercises, supervise student projects, and help learners move from concept to implementation. I thrive on practical problem solving, collaboration across disciplines, and building systems that scale securely.
+Currently, I share my expertise as a **Temporary Teacher** at M'Hamed Bougara University, where I guide students through the complexities of AI and IoT. This role has sharpened my ability to communicate technical concepts clearly and reinforced my belief that the best engineering solutions are built on continuous learning and rigorous logic.
 
----
-
-## Core Skills
-
-### Languages & Automation
-
-* Python (scripting, automation, data processing)
-* Shell scripting (Linux)
-
-### Networking & Infrastructure
-
-* Routing & switching, VPNs, proxies, SDN concepts
-* Server deployment, load balancing, firewalls, monitoring
-
-### Systems & OS
-
-* Linux (Ubuntu, Kali, Debian) — administration & hardening
-* Windows systems administration
-
-### Data, Machine Learning & Deep Learning
-
-* Data processing and real-time predictive modelling
-* Algorithms: KMeans, DBSCAN, SVM, Random Forest, XGBoost
-* Deep learning: CNN, RNN, LSTM, GRU, Transformers/Encoders
-
-### Cybersecurity & Telecommunications
-
-* IDS / intrusion detection, ethical hacking, incident analysis & response
-* Telecommunications fundamentals: signal & image processing, antennas & propagation, cryptography
-
-### Tools & Certifications
-
-* CCNA (routing & switching fundamentals)
-* PCAP (Python programming)
-
-### Soft Skills
-
-* Technical teaching & mentorship
-* Project supervision and assessment
-* Troubleshooting, documentation, clear technical communication
+When I’m not in the classroom or the lab, I am usually deep-diving into **AI-driven cybersecurity** or exploring the latest advancements in **Software-Defined Networking (SDN)**. I am always looking for opportunities to apply my skills in Python, Machine Learning, and Systems Administration to solve high-impact, real-world problems.
 
 ---
 
-## Professional Experience
+## 🛠 Core Skills
 
-### Temporary Teacher — M'Hamed Bougara University, Boumerdes
-
-**AI & IoT (Courses, Labs)** • *Sep 2025 – Present*
-
-* Delivered lectures and hands-on lab sessions in AI and IoT, converting theory into practical exercises and reproducible lab environments.
-* Designed and updated course materials and labs to align with current industry tools and practices.
-* Supervised student projects and assessments, improving project outcomes through structured feedback and technical coaching.
-
-### Network & System Administrator (Part-Time) — Al‑Shahid Larbi Benmehidi Formation Center
-
-*Jul 2023 – Nov 2025*
-
-* Administered and configured network infrastructure and on-premise servers to improve availability and security.
-* Implemented maintenance routines and supported server deployments; managed security configurations and monitoring to reduce incidents.
-* Provided technical support and training for instructors and trainees, decreasing mean time to resolution for service issues.
-
-### Internship — Data Transmission Department, Algérie Telecom SPA (Boumerdes HQ)
-
-*6‑month internship*
-
-* Supported network testing, documentation, and deployment activities in a carrier-grade environment.
-* Gained hands-on exposure to operational workflows and large-scale telecommunication infrastructure.
+| Category | Technologies & Competencies |
+| :--- | :--- |
+| **Networks** | Routing, Switching, VPN, Proxies, IoT, SDN, Firewalls, Load Balancing, Monitoring 🌐 |
+| **AI & Data Science** | Python (PCAP Certified), ML (SVM, XGBoost), Deep Learning (CNN, RNN, Transformers) 🤖 |
+| **Systems** | Linux Administration (Ubuntu, Kali, Debian), Windows Server, Deployment & Maintenance 🐧 |
+| **Cybersecurity** | Ethical Hacking, IDS/IPS, Incident Response, Cryptography, Signal Processing 🛡️ |
+| **Soft Skills** | Technical Pedagogy, Project Supervision, Analytical Problem Solving, Adaptability 💡 |
 
 ---
 
-## Featured Projects
+## 💼 Professional Experience
 
-### AI-Driven Intrusion Detection System in Software-Defined Networks (Final Year Project)
+### **Temporary Teacher** **M'Hamed Bougara University** | *09/2025 – Present* * **Impact:** Empowering 100+ students by designing and delivering comprehensive Lab Work (TP) and lectures focused on **AI and IoT**.
+* **Key Responsibilities:** Creating up-to-date teaching materials, supervising complex student projects, and ensuring academic excellence through rigorous assessment.
 
-* **Tech stack:** Python, scikit-learn, ML pipelines, SDN concepts, IDS methodologies
-* **Description & impact:** Developed and evaluated ML-based intrusion detection tailored for SDN environments. Built a real-time feature extraction pipeline and compared supervised/unsupervised models to improve detection accuracy while minimizing false positives. Demonstrated practical workflows for integrating network telemetry with ML models.
+### **Network and System Administrator** **Al-Shahid Larbi Benmehidi Formation Center** | *07/2023 – 11/2025* * **Impact:** Maintained high-availability infrastructure for training operations through proactive server deployment and network maintenance.
+* **Key Responsibilities:** Configured secure network infrastructures, managed firewalls, and provided high-level technical support for trainers and trainees.
 
-### Placeholder Project — Add your project name
-
-* **Tech stack:** *e.g., Python, TensorFlow, Docker, OpenFlow*
-* **Description & impact:** *Short summary of the project, your role, outcomes, and any measurable impact (accuracy, throughput, uptime, user growth, etc.).*
-
----
-
-## Education & Certifications
-
-* **Master — Networks & Telecommunications**, Faculty of Technology, M’Hamed Bougara University, Boumerdes — *2025*
-* **Bachelor (Licence) — Telecommunications**, Faculty of Technology, M’Hamed Bougara University, Boumerdes — *2023*
-
-**Certifications:** CCNA; PCAP (Certified Associate in Python Programming)
+### **Intern** **Algérie Telecom SPA** | *6-Month Engagement*
+* **Focus:** Gained hands-on experience within the **Data Transmission Department**, observing large-scale telecommunications operations and infrastructure management at the Boumerdes headquarters.
 
 ---
 
-## Let's Connect ✉️
+## 🚀 Featured Projects
 
-I’m open to collaboration, tutoring, and network/AI projects. Reach out via email or connect on LinkedIn / GitHub.
+### **AI-Driven Intrusion Detection Systems in SDN** * **Tech Stack:** Python, SDN Controller, Scikit-Learn, Deep Learning.
+* **Description:** Developed an advanced security framework that utilizes machine learning to detect and mitigate network intrusions in real-time within a Software-Defined Networking environment.
+* **Impact:** Successfully demonstrated how AI can enhance network resilience against modern, automated cyber threats.
 
-* **Email:** [yacermeftah@gmail.com](mailto:yacermeftah@gmail.com)
-* **LinkedIn:** [linkedin.com/in/yacer-meftah-770238296](https://www.linkedin.com/in/yacer-meftah-770238296)
-* **GitHub:** [github.com/yacerak](https://github.com/yacerak)
+### **[Project Name Placeholder]** * **Tech Stack:** *e.g., Python, TensorFlow, Flask*
+* **Description:** *Describe a personal project or a significant achievement here. Focus on the problem you solved.*
+* **Impact:** *What was the result? (e.g., Improved efficiency by 20%, won a hackathon, etc.)*
+
+---
+
+## 🎓 Education & Certifications
+
+* **Master in Networks and Telecommunications** | *M’hamed Bougara University* (2025) 🎓
+* **Bachelor in Telecommunications** | *M’hamed Bougara University* (2023)
+* **PCAP – Certified Associate in Python Programming** 🐍
+* **CCNA – Cisco Certified Network Associate** 🗺️
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to discussing new projects, teaching opportunities, or the latest trends in AI and Networking. 
+
+* **Email:** [yacermeftah@gmail.com](mailto:yacermeftah@gmail.com) ✉️
+* **LinkedIn:** [yacer-meftah](https://linkedin.com/in/yacer-meftah-770238296) 🔗
+* **GitHub:** [yacerak](https://github.com/yacerak) 🐙
+
+---
+*Built with ❤️ by Yacer Akram Meftah*
