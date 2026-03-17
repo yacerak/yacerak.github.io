@@ -48,10 +48,15 @@ When I’m not in the classroom or the lab, I am usually deep-diving into **AI-d
 * **Description:** Developed an advanced security framework that utilizes machine learning to detect and mitigate network intrusions in real-time within a Software-Defined Networking environment.
 * **Impact:** Successfully demonstrated how AI can enhance network resilience against modern, automated cyber threats.
 
-### **[Project Name Placeholder]** * **Tech Stack:** *e.g., Python, TensorFlow, Flask*
-* **Description:** *Describe a personal project or a significant achievement here. Focus on the problem you solved.*
-* **Impact:** *What was the result? (e.g., Improved efficiency by 20%, won a hackathon, etc.)*
+### AI-Powered Intrusion Detection System for SDN (LSTM-Based)
 
+- **Tech Stack:** Python, TensorFlow/Keras, Ryu SDN Controller, OpenFlow, Scikit-learn, Linux
+
+- **Description:**  
+Designed and implemented an intelligent Intrusion Detection System (IDS) leveraging a Long Short-Term Memory (LSTM) deep learning architecture to detect anomalous network behavior in Software-Defined Networking (SDN) environments. Integrated the model with the Ryu SDN controller to enable real-time traffic analysis and dynamic decision-making within a LAN network. Built a data pipeline for preprocessing network flow features and trained the model on labeled traffic datasets to distinguish between normal and malicious patterns.
+
+- **Impact:**  
+Achieved high detection accuracy with reduced false positives compared to traditional rule-based IDS approaches. Enabled real-time threat detection and response within the SDN controller, demonstrating the feasibility of combining deep learning with programmable networks for adaptive cybersecurity. Strengthened network visibility and automated mitigation capabilities in a controlled LAN environment.
 ---
 
 ## 🎓 Education & Certifications
