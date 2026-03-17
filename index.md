@@ -1,10 +1,10 @@
 ---
 
-layout: default
+layout: "default"
 title: "Yacer Akram Meftah"
-description: "Network & Telecommunications Engineer — AI/ML & IoT"
-permalink: /
-------------
+description: "Network & Telecommunications Engineer - AI/ML & IoT"
+permalink: "/"
+--------------
 
 # Yacer Akram Meftah
 
@@ -130,4 +130,3 @@ I’m open to collaboration, tutoring, and network/AI projects. Reach out via em
 * **Email:** [yacermeftah@gmail.com](mailto:yacermeftah@gmail.com)
 * **LinkedIn:** [linkedin.com/in/yacer-meftah-770238296](https://www.linkedin.com/in/yacer-meftah-770238296)
 * **GitHub:** [github.com/yacerak](https://github.com/yacerak)
-
